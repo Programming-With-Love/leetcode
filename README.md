@@ -6,7 +6,7 @@ I really **enjoy** it, I will always update it.
 
 🎉🎉🎉 Started at 2018.9.11
 
-## directory
+# directory
 
 - [leetcode](#0)
   - [Array](#1)
@@ -23,6 +23,7 @@ I really **enjoy** it, I will always update it.
 | [27.Remove Element](https://leetcode.com/problems/remove-element) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No27.java) | O(N) | Easy       |      |
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No35.java) | O(N) | Easy       |      |
 | [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No53.java) |      | Easy       |      |
+| [66.Plus One](https://leetcode.com/problems/plus-one)        | [java](https://github.com/tujietg/leetcode/blob/master/Array/No66.java) | O(N) | Easy       |      |
 
 <h3 id = 2>LinkedList</h4>
 
