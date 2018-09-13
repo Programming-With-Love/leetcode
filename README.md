@@ -1,6 +1,4 @@
-### Algorithm
-
--------
+# Algorithm
 
 I like to brush leetcode, it is a way of my pastime.
 
@@ -8,18 +6,14 @@ I really **enjoy** it, I will always update it.
 
 🎉🎉🎉 Started at 2018.9.11
 
-#### directory
-
-----
+## directory
 
 - [leetcode](#0)
   - [Array](#1)
   - [LinkedList](#2)
   - [String](#3)
 
-<h3 id = 0>leetcode</h3>
-
----
+<h2 id = 0>leetcode</h3>
 
 <h4 id = 1>Array</h4>
 
