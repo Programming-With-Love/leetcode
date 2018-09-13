@@ -15,7 +15,7 @@ I really **enjoy** it, I will always update it.
 
 <h2 id = 0>leetcode</h3>
 
-<h4 id = 1>Array</h4>
+<h3 id = 1>Array</h4>
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
@@ -24,13 +24,13 @@ I really **enjoy** it, I will always update it.
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No35.java) | O(N) | Easy       |      |
 | [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No53.java) |      | Easy       |      |
 
-<h4 id = 2>LinkedList</h4>
+<h3 id = 2>LinkedList</h4>
 
 | Problem | Solution | Time | Difficulty | Note |
 | ------- | -------- | ---- | ---------- | ---- |
 |         |          |      |            |      |
 
-<h4 id = 3>String</h4>
+<h3 id = 3>String</h4>
 
 | Problem                                                      | Solution                                                     | Time         | Difficulty | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- | ---- |
