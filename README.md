@@ -28,9 +28,9 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 2>LinkedList</h4>
 
-| Problem | Solution | Time | Difficulty | Note |
-| ------- | -------- | ---- | ---------- | ---- |
-|         |          |      |            |      |
+| Problem                                                      | Solution                                                     | Time | Difficulty | Note |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
+| [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [java](https://github.com/tujietg/leetcode/blob/master/LinkedList/No21.java) | O(N) | Easy       |      |
 
 <h3 id = 3>String</h4>
 
@@ -41,10 +41,10 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 4>Tree</h3>
 
-| Problem                                              | Solution                                                     | Time | Difficulty | Note |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ---- |
-| [Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/leetcode/blob/master/Tree/No100.java) |      | Easy       |      |
-|                                                      |                                                              |      |            |      |
+| Problem                                                  | Solution                                                     | Time | Difficulty | Note |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ---- |
+| [100.Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/leetcode/blob/master/Tree/No100.java) | O(N) | Easy       |      |
+|                                                          |                                                              |      |            |      |
 
 
 
