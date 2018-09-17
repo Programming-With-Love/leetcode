@@ -13,6 +13,7 @@ I really **enjoy** it, I will always update it.
   - [LinkedList](#2)
   - [String](#3)
   - [Tree](#4)
+  - [math](#5)
 
 <h2 id = 0>leetcode</h3>
 
@@ -25,6 +26,7 @@ I really **enjoy** it, I will always update it.
 | [35.Search Insert Position](https://leetcode.com/problems/search-insert-position) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No35.java) | O(N) | Easy       |      |
 | [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [java](https://github.com/tujietg/leetcode/blob/master/Array/No53.java) |      | Easy       |      |
 | [66.Plus One](https://leetcode.com/problems/plus-one)        | [java](https://github.com/tujietg/leetcode/blob/master/Array/No66.java) | O(N) | Easy       |      |
+| [1.Two Sum](https://leetcode.com/problems/two-sum)           | [java]()                                                     |      |            |      |
 
 <h3 id = 2>LinkedList</h4>
 
@@ -45,6 +47,12 @@ I really **enjoy** it, I will always update it.
 | -------------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ---- |
 | [100.Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/leetcode/blob/master/Tree/No100.java) | O(N) | Easy       |      |
 |                                                          |                                                              |      |            |      |
+
+<h3 id = 5>Math</h3>
+
+| Problem                                                      | Solution                                                     | Time | Difficulty | Note |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
+| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/leetcode/blob/master/math/No07.java) |      | Easy       |      |
 
 
 
