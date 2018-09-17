@@ -12,6 +12,7 @@ I really **enjoy** it, I will always update it.
   - [Array](#1)
   - [LinkedList](#2)
   - [String](#3)
+  - [Tree](4)
 
 <h2 id = 0>leetcode</h3>
 
@@ -38,7 +39,12 @@ I really **enjoy** it, I will always update it.
 | [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/leetcode/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |      |
 | [58Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/leetcode/blob/master/String/No58.java) |              | Easy       |      |
 
+<h3 id = 4>Tree</h3>
 
+| Problem                                              | Solution                                                     | Time | Difficulty | Note |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ---- |
+| [Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/leetcode/blob/master/Tree/No100.java) |      | Easy       |      |
+|                                                      |                                                              |      |            |      |
 
 
 
