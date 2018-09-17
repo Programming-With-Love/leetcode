@@ -12,7 +12,7 @@ I really **enjoy** it, I will always update it.
   - [Array](#1)
   - [LinkedList](#2)
   - [String](#3)
-  - [Tree](4)
+  - [Tree](#4)
 
 <h2 id = 0>leetcode</h3>
 
