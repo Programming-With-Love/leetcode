@@ -37,10 +37,11 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 3>String</h4>
 
-| Problem                                                      | Solution                                                     | Time         | Difficulty | Note |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- | ---- |
-| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/leetcode/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |      |
-| [58Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/leetcode/blob/master/String/No58.java) |              | Easy       |      |
+| Problem                                                      | Solution                                                     | Time         | Difficulty | Note            |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ---------- | --------------- |
+| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/leetcode/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |                 |
+| [58Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/leetcode/blob/master/String/No58.java) |              | Easy       |                 |
+| [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [java](https://github.com/tujietg/leetcode/blob/master/String/No20.java) | O(N)         | Easy       | stack.isEmpty() |
 
 <h3 id = 4>Tree</h3>
 
