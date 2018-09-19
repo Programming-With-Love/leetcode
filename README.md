@@ -37,11 +37,11 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 3>String</h4>
 
-| Problem                                                      | Solution                                                     | Time         | Difficulty | Note            |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ---------- | --------------- |
-| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/leetcode/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |                 |
-| [58Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/leetcode/blob/master/String/No58.java) |              | Easy       |                 |
-| [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [java](https://github.com/tujietg/leetcode/blob/master/String/No20.java) | O(N)         | Easy       | stack.isEmpty() |
+| Problem                                                      | Solution                                                     | Time         | Difficulty | Note                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- | ---------------------------- |
+| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/leetcode/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |                              |
+| [58.Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/leetcode/blob/master/String/No58.java) |              | Easy       |                              |
+| [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [java](https://github.com/tujietg/leetcode/blob/master/String/No20.java) | O(N)         | Easy       | 🤣最终的返回为stack.isEmpty() |
 
 <h3 id = 4>Tree</h3>
 
@@ -56,7 +56,6 @@ I really **enjoy** it, I will always update it.
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
 | [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/leetcode/blob/master/math/No07.java) |      | Easy       |      |
 | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/leetcode/blob/master/math/No09.java) | O(N) | Easy       |      |
-| [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [java](https://github.com/tujietg/leetcode/blob/master/math/No13.java) | O(N) | Easy       |      |
 
 
 
