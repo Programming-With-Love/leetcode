@@ -17,18 +17,18 @@ I really **enjoy** it, I will always update it.
   - [DP](#6)
 
 <h2 id = 0>leetcode</h3>
-
 <h3 id = 1>Array</h4>
+
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | --------------- |
 | [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No26.java) | O(N) | Easy       |                 |
-| [27.Remove Element](https://leetcode.com/problems/remove-element) | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No27.java) | O(N) | Easy       |                 |
-| [35.Search Insert Position](https://leetcode.com/problems/search-insert-position) | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No35.java) | O(N) | Easy       |                 |
-| [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No53.java) |      | Easy       |                 |
-| [66.Plus One](https://leetcode.com/problems/plus-one)        | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No66.java) | O(N) | Easy       |                 |
+| [27.Remove Element](https://leetcode.com/problems/remove-element) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No27.java) | O(N) | Easy       |                 |
+| [35.Search Insert Position](https://leetcode.com/problems/search-insert-position) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No35.java) | O(N) | Easy       |                 |
+| [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No53.java) |      | Easy       |                 |
+| [66.Plus One](https://leetcode.com/problems/plus-one)        | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No66.java) | O(N) | Easy       |                 |
 | [1.Two Sum](https://leetcode.com/problems/two-sum)           | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No1.java) |      |            |                 |
-| [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [java](https://github.com/tujietg/Algorithm/blob/master/Array/No14.java) | O(N) | Easy       | 😩第一个元素范围 |
+| [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No14.java) | O(N) | Easy       | 😩第一个元素范围 |
 
 <h3 id = 2>LinkedList</h4>
 
