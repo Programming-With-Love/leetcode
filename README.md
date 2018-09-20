@@ -34,36 +34,36 @@ I really **enjoy** it, I will always update it.
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
-| [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [java](https://github.com/tujietg/Algorithm/blob/master/LinkedList/No21.java) | O(N) | Easy       |      |
+| [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/LinkedList/No21.java) | O(N) | Easy       |      |
 
 <h3 id = 3>String</h4>
 
 | Problem                                                      | Solution                                                     | Time         | Difficulty | Note                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---------- | ----------------------------------- |
-| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/Algorithm/blob/master/String/No28.java) | O(N)\|\|O(1) | Easy       |                                     |
-| [58.Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/Algorithm/blob/master/String/No58.java) |              | Easy       |                                     |
-| [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [java](https://github.com/tujietg/Algorithm/blob/master/String/No20.java) | O(N)         | Easy       | 🤣最终的返回为stack.isEmpty()        |
-| [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [java](https://github.com/tujietg/Algorithm/blob/master/String/No125.java) |              | Easy       | API:isLetterOrDigit() toLowerCase() |
+| [28.Implement strStr()](https://leetcode.com/problems/implement-strstr) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/String/No28.java) | O(N)\|\|O(1) | Easy       |                                     |
+| [58.Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/String/No58.java) |              | Easy       |                                     |
+| [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/String/No20.java) | O(N)         | Easy       | 🤣最终的返回为stack.isEmpty()        |
+| [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/String/No125.java) |              | Easy       | API:isLetterOrDigit() toLowerCase() |
 
 <h3 id = 4>Tree</h3>
 
 | Problem                                                  | Solution                                                     | Time | Difficulty | Note |
 | -------------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ---- |
-| [100.Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/Algorithm/blob/master/Tree/No100.java) | O(N) | Easy       |      |
+| [100.Same Tree](https://leetcode.com/problems/same-tree) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Tree/No100.java) | O(N) | Easy       |      |
 |                                                          |                                                              |      |            |      |
 
 <h3 id = 5>Math</h3>
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
-| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/math/No07.java) |      | Easy       |      |
-| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/math/No09.java) | O(N) | Easy       |      |
+| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No07.java) |      | Easy       |      |
+| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No09.java) | O(N) | Easy       |      |
 
 <h3 id="6">DP</h3>
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
-| [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [java](https://github.com/tujietg/Algorithm/blob/master/DP/No70.java) | O(N) | Easy       | [DP初步讲解](https://leetcode.com/articles/climbing-stairs/) & [讲解](https://leetcode.com/problems/climbing-stairs/discuss/163347/Python-3000DP-or-tm) |
+| [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/DP/No70.java) | O(N) | Easy       | [DP初步讲解](https://leetcode.com/articles/climbing-stairs/) & [讲解](https://leetcode.com/problems/climbing-stairs/discuss/163347/Python-3000DP-or-tm) |
 
 
 
