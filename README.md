@@ -54,16 +54,17 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 5>Math</h3>
 
-| Problem                                                      | Solution                                                     | Time | Difficulty | Note |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ---- |
-| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No07.java) |      | Easy       |      |
-| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No09.java) | O(N) | Easy       |      |
+| Problem                                                      | Solution                                                     | Time | Difficulty | Note                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------- |
+| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No07.java) |      | Easy       |                                       |
+| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No09.java) | O(N) | Easy       |                                       |
+| [136.Single Number](https://leetcode.com/problems/single-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No136.java) | O(N) | Easy       | 🤣Bit Manipulation(位运算)才是解决王道 |
 
 <h3 id="6">DP</h3>
 
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
-| [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/DP/No70.java) | O(N) | Easy       | [DP初步讲解](https://leetcode.com/articles/climbing-stairs/) & [讲解](https://leetcode.com/problems/climbing-stairs/discuss/163347/Python-3000DP-or-tm) |
+| [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/DP/No70.java) | O(N) | Easy       | 😇[DP初步讲解](https://leetcode.com/articles/climbing-stairs/) & [讲解](https://leetcode.com/problems/climbing-stairs/discuss/163347/Python-3000DP-or-tm) |
 
 
 
