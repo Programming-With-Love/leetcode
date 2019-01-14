@@ -6,6 +6,8 @@ I really **enjoy** it, I will always update it.
 
 🎉🎉🎉 Started at 2018.9.11
 
+🙈🙈🙈Restart at 2019.01.14
+
 # directory
 
 - [leetcode](#0)
@@ -54,11 +56,13 @@ I really **enjoy** it, I will always update it.
 
 <h3 id = 5>Math</h3>
 
-| Problem                                                      | Solution                                                     | Time | Difficulty | Note                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------- |
-| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No07.java) |      | Easy       |                                       |
-| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No09.java) | O(N) | Easy       |                                       |
-| [136.Single Number](https://leetcode.com/problems/single-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No136.java) | O(N) | Easy       | 🤣Bit Manipulation(位运算)才是解决王道 |
+| Problem                                                      | Solution                                                     | Time | Difficulty | Note                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
+| [7.Reverse Integer](https://leetcode.com/problems/reverse-integer) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No07.java) |      | Easy       |                                                              |
+| [9.Palindrome Number](https://leetcode.com/problems/palindrome-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No09.java) | O(N) | Easy       |                                                              |
+| [136.Single Number](https://leetcode.com/problems/single-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No136.java) | O(N) | Easy       | 🤣Bit Manipulation(位运算)才是解决王道                        |
+| [171Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/math/No171.java) | O(N) | Easy       | 🙈打脸，Restart的第一道题，思维迟钝了，以后每天一道～坚持住！ |
+|                                                              |                                                              |      |            |                                                              |
 
 <h3 id="6">DP</h3>
 
