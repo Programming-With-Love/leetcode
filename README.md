@@ -17,11 +17,10 @@ I really **enjoy** it, I will always update it.
   - [Tree](#4)
   - [math](#5)
   - [DP](#6)
+  - [SQL](#7)
 
 <h2 id = 0>leetcode</h3>
 <h3 id = 1>Array</h4>
-
-
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | --------------- |
 | [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No26.java) | O(N) | Easy       |                 |
@@ -70,7 +69,11 @@ I really **enjoy** it, I will always update it.
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
 | [70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/DP/No70.java) | O(N) | Easy       | 😇[DP初步讲解](https://leetcode.com/articles/climbing-stairs/) & [讲解](https://leetcode.com/problems/climbing-stairs/discuss/163347/Python-3000DP-or-tm) |
 
+<h3 id="7">SQL</h3>
 
+| Problem                                                      | Solution                                                     | Time | Difficulty | Note                                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | -------------------------------------------------- |
+| [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Sql](https://github.com/tujietg/Algorithm/blob/master/leetcode/SQL/No175.sql) |      | Easy       | 😑😑😑很久没写sql了，忘了差不多了，是时候捡起来了～！ |
 
 
 
