@@ -21,6 +21,9 @@ I really **enjoy** it, I will always update it.
 
 <h2 id = 0>leetcode</h3>
 <h3 id = 1>Array</h4>
+
+
+
 | Problem                                                      | Solution                                                     | Time | Difficulty | Note            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---------- | --------------- |
 | [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No26.java) | O(N) | Easy       |                 |
