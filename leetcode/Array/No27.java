@@ -1,4 +1,4 @@
-package Array;
+package Algorithm.leetcode.Array;
 
 public class No27 {
 	public int removeElement(int[] nums, int val) {

@@ -1,4 +1,4 @@
-package Array;
+package Algorithm.leetcode.Array;
 
 public class No121 {
 	public static void main(String[] args) {

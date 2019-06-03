@@ -1,4 +1,5 @@
-package Array;
+package Algorithm.leetcode.Array;
+
 import java.util.HashMap;
 
 public class No01 {

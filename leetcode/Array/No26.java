@@ -1,4 +1,4 @@
-package Array;
+package Algorithm.leetcode.Array;
 
 public class No26 {
 	public int removeDuplicates(int[] nums) {

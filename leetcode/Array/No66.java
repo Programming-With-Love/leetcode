@@ -1,4 +1,4 @@
-package Array;
+package Algorithm.leetcode.Array;
 
 public class No66 {
 	public int[] plusOne(int[] digits) {

@@ -1,4 +1,4 @@
-package Array;
+package Algorithm.leetcode.Array;
 
 public class No122 {
 	public int maxProfit(int[] prices) {
