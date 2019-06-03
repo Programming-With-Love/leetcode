@@ -1,8 +1,5 @@
-/**
- * 
- * @author tujietg
- *
- */
+package Algorithm.leetcode.math;
+
 public class No171 {
 
 	public int titleToNumber(String s) {

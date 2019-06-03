@@ -1,4 +1,6 @@
-class No168 {
+package Algorithm.leetcode.math;
+
+public class No168 {
 	public String convertToTitle(int n) {
 		if (n < 1) {
 			return "";
