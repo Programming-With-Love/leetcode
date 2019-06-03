@@ -4,13 +4,13 @@
 
 🚴‍I really **enjoy** it, I will always update it.
 
-[刷题进阶时间线](https://gist.github.com/tujietg/60f72073a1c7945350abb8b09e2d6455)
+- [刷题进阶时间线](https://gist.github.com/tujietg/60f72073a1c7945350abb8b09e2d6455)
 
 ### Note
 
 -----
 
-[算法复杂度和时间复杂度](https://zhuanlan.zhihu.com/p/50479555)
+- [算法复杂度和时间复杂度](https://zhuanlan.zhihu.com/p/50479555)
 
 ### LeetCode
 
