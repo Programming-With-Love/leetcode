@@ -1,4 +1,4 @@
-package LinkedList;
+package Algorithm.leetcode.LinkedList;
 
 public class No237 {
 	public void deleteNode(ListNode node) {

@@ -1,4 +1,4 @@
-package LinkedList;
+package Algorithm.leetcode.LinkedList;
 
 public class No141 {
 	public boolean hasCycle(ListNode head) {

@@ -1,4 +1,4 @@
-package LinkedList;
+package Algorithm.leetcode.LinkedList;
 
 public class No106 {
 	public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

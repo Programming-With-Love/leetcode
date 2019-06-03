@@ -1,8 +1,8 @@
-package LinkedList;
+package Algorithm.leetcode.LinkedList;
 
 public class No206 {
 	// 迭代
-	public ListNode reverseList(ListNode head) {
+	public ListNode reverseList02(ListNode head) {
 		if (head == null || head.next == null) {
 			return head;
 		}
@@ -27,25 +27,25 @@ public class No206 {
 		head.next = null;
 		return newList;
 	}
-	//三指针解决、
-	public ListNode reverseList(ListNode head) {
-        if(head == null){
-            return null;
-        }
-        ListNode current = head;
-        ListNode pre = null;
-        ListNode newHead = null;
-        while(current != null){
-            ListNode next = current.next;
-            if(next == null){
-               newHead = current;
-            }
-            current.next = pre;
-            pre = current;
-            current = next;
-        }
-     	   return newHead;
-   	}
 
-	
+	// 三指针解决、
+	public ListNode reverseList(ListNode head) {
+		if (head == null) {
+			return null;
+		}
+		ListNode current = head;
+		ListNode pre = null;
+		ListNode newHead = null;
+		while (current != null) {
+			ListNode next = current.next;
+			if (next == null) {
+				newHead = current;
+			}
+			current.next = pre;
+			pre = current;
+			current = next;
+		}
+		return newHead;
+	}
+
 }

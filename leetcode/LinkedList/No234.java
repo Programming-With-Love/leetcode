@@ -1,4 +1,4 @@
-package LinkedList;
+package Algorithm.leetcode.LinkedList;
 
 //回文链表1->2->2->1
 public class No234 {
