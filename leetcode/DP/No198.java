@@ -1,4 +1,6 @@
-class No198 {
+package Algorithm.leetcode.DP;
+
+public class No198 {
 	public int rob(int[] nums) {
 		int a = 0;
 		int b = 0;
