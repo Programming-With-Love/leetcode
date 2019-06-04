@@ -12,7 +12,8 @@
 
 #### Array
 
-| #    | Title                                             | Solution                                                     | Time | Space | Note                                              |
-| ---- | ------------------------------------------------- | ------------------------------------------------------------ | ---- | ----- | ------------------------------------------------- |
-| No01 | [Two Sum](https://leetcode.com/problems/two-sum/) | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No01.java) | O(n) | O(n)  | 采用map存储值和下标，然后再次遍历，判断得到结果。 |
+| #    | Title                                                        | Solution                                                     | Time | Space | Note                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----- | ------------------------------------------------------------ |
+| No01 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No01.java) | O(n) | O(n)  | 采用map存储值和下标，然后再次遍历，判断得到结果。            |
+| No26 | [Remove Duplicates from Sorted Array](<https://leetcode.com/problems/remove-duplicates-from-sorted-array/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No26.java>) | O(n) | O(1)  | 定义i来记录不相等的个数，因为记录从下标0开始，最后长度需要加1. |
 
