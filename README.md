@@ -17,4 +17,5 @@
 | No01 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [java](https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No01.java) | O(n) | O(n)  | 采用map存储值和下标，然后再次遍历，判断得到结果。            |
 | No26 | [Remove Duplicates from Sorted Array](<https://leetcode.com/problems/remove-duplicates-from-sorted-array/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No26.java>) | O(n) | O(1)  | 定义i来记录不相等的个数，因为记录从下标0开始，最后长度需要加1. |
 | No27 | [Remove Element](<https://leetcode.com/problems/remove-element/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No27.java>) | O(n) | O(1)  | 采用变量来记录相同的值。                                     |
+| No35 | [Search Insert Position](<https://leetcode.com/problems/search-insert-position/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No35.java>) | O(n) | O(1)  | 1⃣ 找到给定数大于数组的元素。2⃣ 遍历，一个一个条件的判断。     |
 
