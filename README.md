@@ -19,4 +19,8 @@
 | No27 | [Remove Element](<https://leetcode.com/problems/remove-element/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No27.java>) | O(n) | O(1)  | 采用变量来记录相同的值。                                     |
 | No35 | [Search Insert Position](<https://leetcode.com/problems/search-insert-position/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No35.java>) | O(n) | O(1)  | 1⃣ 找到给定数大于数组的元素。2⃣ 遍历，一个一个条件的判断。     |
 | No53 | [Maximum Subarray](<https://leetcode.com/problems/maximum-subarray/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No53.java>) | O(n) | O(1)  | 设置max字段的初始值为最小的整数。                            |
+| No66 | [Plus One](<https://leetcode.com/problems/plus-one/>)        | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No66.java>) | O(n) | O(n)  | 该算法解法中做了合适的小于9的判断。                          |
+|      |                                                              |                                                              |      |       |                                                              |
+|      |                                                              |                                                              |      |       |                                                              |
+|      |                                                              |                                                              |      |       |                                                              |
 
