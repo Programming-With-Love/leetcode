@@ -24,3 +24,11 @@
 | No121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No121.java>) | O(n) | O(1)  | 一次死循环，利用中间值做判断。                               |
 | No122 | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/>) | [java]()                                                     | O(n) | O(1)  | 一次循环，判断后值比前值大。                                 |
 
+
+
+#### Dynamic Programming
+
+| #     | Title                                                        | Solution | Time | Space | Note                   |
+| ----- | ------------------------------------------------------------ | -------- | ---- | ----- | ---------------------- |
+| No303 | [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) | [java]() | O(1) | O(n)  | sumRange被频繁的调用。 |
+
