@@ -28,7 +28,17 @@
 
 #### Dynamic Programming
 
-| #     | Title                                                        | Solution | Time | Space | Note                   |
-| ----- | ------------------------------------------------------------ | -------- | ---- | ----- | ---------------------- |
-| No303 | [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) | [java]() | O(1) | O(n)  | sumRange被频繁的调用。 |
+| #      | Title                                                        | Solution | Time | Space | Note                                 |
+| ------ | ------------------------------------------------------------ | -------- | ---- | ----- | ------------------------------------ |
+| No303  | [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) | [java]() | O(1) | O(n)  | sumRange被频繁的调用。               |
+| No746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [java]() | O(N) | O(n)  | 先计算到达每个楼梯最小数字，在做减法 |
+| No1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)  | [java]() | O(1) | O(1)  |                                      |
+
+
+
+####String
+
+| #    | Title                                                   | Solution | Time | Space | Note                   |
+| ---- | ------------------------------------------------------- | -------- | ---- | ----- | ---------------------- |
+| No67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [java]() | O(N) | O(1)  | 相当于自己做了加法运算 |
 
