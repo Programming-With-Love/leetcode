@@ -38,7 +38,8 @@
 
 ####String
 
-| #    | Title                                                   | Solution | Time | Space | Note                   |
-| ---- | ------------------------------------------------------- | -------- | ---- | ----- | ---------------------- |
-| No67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [java]() | O(N) | O(1)  | 相当于自己做了加法运算 |
+| #     | Title                                                        | Solution | Time | Space | Note                   |
+| ----- | ------------------------------------------------------------ | -------- | ---- | ----- | ---------------------- |
+| No67  | [Add Binary](https://leetcode.com/problems/add-binary/)      | [java]() | O(N) | O(1)  | 相当于自己做了加法运算 |
+| No344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [java]() | O(N) | O(1)  | 利用中间值进行修改。   |
 
