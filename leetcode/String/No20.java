@@ -18,4 +18,8 @@ public class No20 {
 		}
 		return stack.isEmpty();
 	}
+
+	public static void main(String[] args) {
+		System.out.println();
+	}
 }

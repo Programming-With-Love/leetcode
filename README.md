@@ -8,7 +8,7 @@
 
 📖 [算法复杂度和时间复杂度](https://zhuanlan.zhihu.com/p/50479555)
 
-✊ 不间断刷题天数：5天
+✊ 不间断刷题天数：1天
 
 🐘 最长连续刷题天数：5天
 
@@ -28,7 +28,7 @@
 | No121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No121.java>) | O(n) | O(1)  | 一次死循环，利用中间值做判断。                               |
 | No122 | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/>) | [java]()                                                     | O(n) | O(1)  | 一次循环，判断后值比前值大。                                 |
 
-
+-------
 
 #### Dynamic Programming
 
@@ -38,9 +38,9 @@
 | No746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [java]() | O(N) | O(n)  | 先计算到达每个楼梯最小数字，在做减法 |
 | No1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)  | [java]() | O(1) | O(1)  |                                      |
 
+-----
 
-
-####String
+#### String
 
 | #     | Title                                                        | Solution | Time | Space | Note                   |
 | ----- | ------------------------------------------------------------ | -------- | ---- | ----- | ---------------------- |
