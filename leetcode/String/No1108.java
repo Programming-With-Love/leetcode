@@ -6,8 +6,7 @@ package Algorithm.leetcode.String;
  */
 public class No1108 {
 	public static String defangIPaddr(String address) {
-		address = address.replace(".", "}");
-		String[] addArr = address.split("}");
+		String[] addArr = address.split("\\.");
 		String end = "";
 		for (int i = 0; i < addArr.length; i++) {
 			end = end + addArr[i];
@@ -20,5 +19,6 @@ public class No1108 {
 
 	public static void main(String[] args) {
 		System.out.println(defangIPaddr("1.1.1.1"));
+		
 	}
 }
