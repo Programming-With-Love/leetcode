@@ -8,7 +8,7 @@ package Algorithm.leetcode.Tree;
 class TreeNodeInt {
 	int val;
 	TreeNodeInt left;
-	TreeNodeInt right;
+	int right;
 
 	TreeNodeInt(int x) {
 		val = x;
