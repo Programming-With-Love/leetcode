@@ -8,7 +8,6 @@ import java.util.HashSet;
  */
 public class No414 {
 	public static int thirdMax(int[] nums) {
-
 		int max = Integer.MIN_VALUE;
 		int second = Integer.MIN_VALUE;
 		int three = Integer.MIN_VALUE;
@@ -26,6 +25,7 @@ public class No414 {
 				three = nums[i];
 			}
 		}
+
 		if (three == Integer.MIN_VALUE && set.size() < 3) {
 			return max;
 		} else {
