@@ -12,7 +12,7 @@ public class No234 {
 		hd = head;
 		ListNode end = head;
 		demo(end);
-		return a;
+		return a;       
 	}
 
 	public void demo(ListNode end) {
