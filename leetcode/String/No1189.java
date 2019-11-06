@@ -4,7 +4,7 @@ package Algorithm.leetcode.String;
  * 
  * Created by tujietg on Oct 24, 2019
  */
-public class No1198 {
+public class No1189 {
 	public int maxNumberOfBalloons(String text) {
 		int a = 0;
 		int b = 0;

@@ -1,6 +1,6 @@
 package Algorithm.leetcode.LinkedList;
 
-public class No106 {
+public class No160 {
 	public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 		if (headA == null || headB == null) {
 			return null;
