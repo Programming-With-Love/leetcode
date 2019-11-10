@@ -25,6 +25,11 @@
 | No88  | [Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No88.java>) | O(n) | O(1)  | 插入之后采用Arrays.sort()排序。                              |
 | No121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock/>) | [java](<https://github.com/tujietg/Algorithm/blob/master/leetcode/Array/No121.java>) | O(n) | O(1)  | 一次死循环，利用中间值做判断。                               |
 | No122 | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/>) | [java]()                                                     | O(n) | O(1)  | 一次循环，判断后值比前值大。                                 |
+| No167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No169.java) | O(N) | O(1)  | 双指针进行操作。头和末尾同时开始。                           |
+| No169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No169.java) | O(N) | O(1)  | 计数，出现最多的数最后计数的值最大。                         |
+| No189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)   | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No189.java) |      |       |                                                              |
+|       |                                                              |                                                              |      |       |                                                              |
+|       |                                                              |                                                              |      |       |                                                              |
 
 -------
 
