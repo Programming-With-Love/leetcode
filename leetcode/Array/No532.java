@@ -23,4 +23,20 @@ public class No532 {
 		}
 		return hashSet.size();
 	}
+
+	public static int findPairs02(int[] nums, int k) {
+		if (k < 0)
+			return 0;
+		Set<Integer> numbers = new HashSet<>();
+		Set<Integer> found = new HashSet<>();
+		for (int n : nums) {
+			if (numbers.contains(n + k))
+				found.add(n);
+			if (numbers.contains(n - k))
+				found.add(n);
+			numbers.add(n - k);
+		}
+		return found.size();
+	}
+
 }
