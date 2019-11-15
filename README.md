@@ -28,8 +28,6 @@
 | No167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No169.java) | O(N) | O(1)  | 双指针进行操作。头和末尾同时开始。                           |
 | No169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No169.java) | O(N) | O(1)  | 计数，出现最多的数最后计数的值最大。                         |
 | No189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)   | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Array/No189.java) |      |       |                                                              |
-|       |                                                              |                                                              |      |       |                                                              |
-|       |                                                              |                                                              |      |       |                                                              |
 
 -------
 
