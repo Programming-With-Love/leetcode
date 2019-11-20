@@ -4,7 +4,7 @@
 
 📖 [算法复杂度和时间复杂度](https://zhuanlan.zhihu.com/p/50479555)
 
-✊ 不间断刷题天数：4天
+✊ 不间断刷题天数：1天
 
 🐘 最长连续刷题天数: 10天
 
@@ -47,4 +47,20 @@
 | ----- | ------------------------------------------------------------ | -------- | ---- | ----- | ---------------------- |
 | No67  | [Add Binary](https://leetcode.com/problems/add-binary/)      | [java]() | O(N) | O(1)  | 相当于自己做了加法运算 |
 | No344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [java]() | O(N) | O(1)  | 利用中间值进行修改。   |
+
+----
+
+#### Tree
+
+| #     | Title                                                        | Solution                                                     | Time | Space | Note                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----- | ------------------------------------------------------------ |
+| No100 | [相同的树](https://leetcode-cn.com/problems/same-tree/)      | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No100.java) | O(N) | O(1)  | 很简单的使用递归，递归的条件，节点是否都为空，或者是否一个为空一个为非空。 |
+| No101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No101.java) | O(N) | O(1)  | 递归遍历，注意，比较的是相对称的节点。                       |
+| No104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No104.java) | O(N) | O(1)  | 分割成每个小块，比较每个节点左子节点的层级多还是右子节点的层级多。 |
+| No108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No108.java) | O(N) | O(1)  | 生成树的时候每次都去找最合适的放在中间的节点。               |
+| No110 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No110.java) | O(N) | O(1)  | 每个节点的都需要比较左右节点。另外写一个方法计算子树的高度。 |
+|       |                                                              |                                                              |      |       |                                                              |
+|       |                                                              |                                                              |      |       |                                                              |
+|       |                                                              |                                                              |      |       |                                                              |
+|       |                                                              |                                                              |      |       |                                                              |
 

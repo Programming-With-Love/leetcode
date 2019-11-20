@@ -8,7 +8,7 @@ package Algorithm.leetcode.Tree;
 class TreeNodeInt {
 	int val;
 	TreeNodeInt left;
-	int right;
+	TreeNodeInt right;
 
 	TreeNodeInt(int x) {
 		val = x;
@@ -20,6 +20,6 @@ public class No104 {
 		if (root == null) {
 			return 0;
 		}
-		return 1 + Math.max(maxDepth(root.left), (root.right));
+		return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
 	}
 }
