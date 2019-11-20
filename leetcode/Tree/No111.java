@@ -9,12 +9,10 @@ public class No111 {
 	static int i = 0;
 
 	public static int minDepth(TreeNode root) {
-
-		System.out.println(++i);
-
 		if (root == null) {
 			return 0;
 		}
+
 		int left = minDepth(root.left);
 		int right = minDepth(root.right);
 		return (left == 0 || right == 0) ? left + right + 1 : Math.min(left + 1, right + 1);
