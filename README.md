@@ -62,5 +62,6 @@
 | No111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No111.java) | O(N) | O(1)  | 计算每个节点到最底节点的深度。                               |
 | No112 | [路径总和](https://leetcode-cn.com/problems/path-sum/)       | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No112.java) | O(N) | O(1)  | 递归的条件是，和减去当前节点的值最终等于0。                  |
 | No226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No226.java) | O(N) | O(1)  | 从最底层的子节点开始旋转。                                   |
+| No235 | [ 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No235.java) | O(N) | O(1)  | 递归寻找合适的root节点。                                     |
 | No617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No617.java) | O(N) | O(1)  | 计算两个树合并节点的值，然后采用递归依次向下计算。           |
 
