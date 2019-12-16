@@ -4,11 +4,11 @@
 
 📖 [算法复杂度和时间复杂度](https://zhuanlan.zhihu.com/p/50479555)
 
-✊ 不间断刷题天数：1天
+✊ 不间断刷题天数：2天
 
 🐘 最长连续刷题天数: 10天
 
-🧗‍♂️ 已解题目：123道
+🧗‍♂️ 已解题目：124道
 
 -------
 
@@ -63,5 +63,6 @@
 | No112 | [路径总和](https://leetcode-cn.com/problems/path-sum/)       | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No112.java) | O(N) | O(1)  | 递归的条件是，和减去当前节点的值最终等于0。                  |
 | No226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No226.java) | O(N) | O(1)  | 从最底层的子节点开始旋转。                                   |
 | No235 | [ 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No235.java) | O(N) | O(1)  | 递归寻找合适的root节点。                                     |
+| No257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No257.java) | O(N) | O(1)  | 递归终止条件是root左右节点为空。自上往下的递归。             |
 | No617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No617.java) | O(N) | O(1)  | 计算两个树合并节点的值，然后采用递归依次向下计算。           |
 
