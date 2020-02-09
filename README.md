@@ -1,4 +1,4 @@
-44leetcode
+## leetcode
 
 🚴‍♀️ I like to brush leetcode, it is a way of my pastime. I really **enjoy** it, I will always update it.
 
@@ -71,16 +71,17 @@
 | No637 | [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No637.java) | 采用队列的方式解决。                                         |
 | No653 | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No653.java) |                                                              |
 | No145 | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/Tree/No145.java) | 直接遍历解决问题。                                           |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
-|       |                                                              |                                                              |                                                              |
+
+---
+
+#### SQL
+
+| #     | Title                                                        | Solution                                                     | Note                                                 |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
+| No175 | [175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No175.sql) | 把Person表作为主表，直接连表查询。                   |
+| No176 | [176. 第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No176.sql) | 利用子查询，先查询出最高薪水，然后再查询第二高薪水。 |
+|       |                                                              |                                                              |                                                      |
+|       |                                                              |                                                              |                                                      |
+
+
 
