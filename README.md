@@ -76,12 +76,15 @@
 
 #### SQL
 
-| #     | Title                                                        | Solution                                                     | Note                                                 |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
-| No175 | [175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No175.sql) | 把Person表作为主表，直接连表查询。                   |
-| No176 | [176. 第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No176.sql) | 利用子查询，先查询出最高薪水，然后再查询第二高薪水。 |
-|       |                                                              |                                                              |                                                      |
-|       |                                                              |                                                              |                                                      |
+| #     | Title                                                        | Solution                                                     | Note                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| No175 | [175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No175.sql) | 把Person表作为主表，直接连表查询。                           |
+| No176 | [176. 第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No176.sql) | 利用子查询，先查询出最高薪水，然后再查询第二高薪水。         |
+| No181 | [181. 超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No181.sql) | 两个表的内连接进行比较。                                     |
+| No182 | [182. 查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No182.sql) | 采用group by进行分组，having进行条件的筛选，count进行计算总数。 |
+| No183 | [183. 从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No183.sql) | 判断某个条件为空。                                           |
+| No196 | [196. 删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No196.sql) | 判断Email相等而且id不能相等。                                |
+| No197 | [197. 上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No197.sql) | 采用DATEDIFF函数 并且其结果等于1。                           |
 
 
 
