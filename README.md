@@ -86,15 +86,15 @@
 | No196 | [196. 删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No196.sql) | 判断Email相等而且id不能相等。                                |
 | No197 | [197. 上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | [MySql](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/SQL/No197.sql) | 采用DATEDIFF函数 并且其结果等于1。                           |
 
----
+-----
 
-####Hash
+#### Hash
 
-| #     | Title                                                        | Solution | Note |
-| ----- | ------------------------------------------------------------ | -------- | ---- |
-| No535 | [535. TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) |          |      |
-|       |                                                              |          |      |
-|       |                                                              |          |      |
+| #     | Title                                                        | Solution                                                     | Note                                  |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- |
+| No535 | [535. TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) | [java](https://github.com/Programming-With-Love/leetcode/blob/master/leetcode/hash/No535.java) | 直接采用map作为容器存储器其中的规则。 |
+|       |                                                              |                                                              |                                       |
+|       |                                                              |                                                              |                                       |
 
 
 
