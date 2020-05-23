@@ -1,9 +1,12 @@
+
 /**
  * @author tujietg
  * @date 5/21/20 9:07 AM
  */
 public class No5 {
     public String longestPalindrome(String s) {
+
+
         int len = s.length();
         if (len < 2) {
             return s;
