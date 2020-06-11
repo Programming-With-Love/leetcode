@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffce6fcf-99cc-4818-8a60-002de266ee6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/No1290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/No24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Nom0202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Nom22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Nom35.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/No1456.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/Nom68.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedList/No24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="460">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinkedList/Nom35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,6 +182,7 @@
         <option value="$PROJECT_DIR$/LinkedList/Nom0202.java" />
         <option value="$PROJECT_DIR$/LinkedList/Nom22.java" />
         <option value="$PROJECT_DIR$/LinkedList/No24.java" />
+        <option value="$PROJECT_DIR$/LinkedList/Nom35.java" />
       </list>
     </option>
   </component>
@@ -212,9 +213,9 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
-    <option name="y" value="23" />
+    <option name="y" value="1683" />
     <option name="width" value="1440" />
-    <option name="height" value="1080" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -266,6 +267,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -287,13 +289,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591663845114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591838903457" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -345,7 +346,8 @@
       <workItem from="1590979373087" duration="722000" />
       <workItem from="1591056071685" duration="148000" />
       <workItem from="1591253892429" duration="557000" />
-      <workItem from="1591663506216" duration="334000" />
+      <workItem from="1591663506216" duration="927000" />
+      <workItem from="1591837851392" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="增加Nom64">
       <created>1590808105335</created>
@@ -379,13 +381,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8555000" />
+    <option name="totallyTimeSpent" value="9844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1440" height="2560" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24351585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24783862" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -432,7 +434,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加Nom28" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/No104.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/No107.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/No108.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/No110.java" />
@@ -614,8 +615,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/No24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/Nom35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
